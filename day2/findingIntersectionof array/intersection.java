@@ -1,6 +1,4 @@
-import java.lang.reflect.Array;
 import java.util.*;
-
 public class intersection {
     public static ArrayList<Integer> findIntersection(int arr[], int arr2[]) {
         HashSet<Integer> set = new HashSet<>();
