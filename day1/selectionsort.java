@@ -31,6 +31,5 @@ public class selectionsort {
         List<Integer> list = Arrays.stream(sortedArr).boxed().collect(Collectors.toList());
         System.out.println("Sorted array is : " + list);
         sc.close();
-        sc.close();
     }
 }
